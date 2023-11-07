@@ -1,0 +1,52 @@
+	7.CRUD
+	└── index.php
+	└── documentation
+	|	└── ...
+	└── main
+		└── c
+		|	└── menu.php
+		|	└── create
+		|		└── aprendiz.php
+		|		└── ficha.php
+		|		└── novedad.php
+		|		└── programa.php
+		|		└── code-aprendiz.php
+		|		└── code-ficha.php
+		|		└── code-novedad.php
+		|		└── code-programa.php
+		└── r
+		|	└── read1.php
+		|	└── read2.php
+		└── u
+		|	└── edit.php
+		|	└── menu.php
+		|	└── update
+		|		└── aprendiz.php
+		|		└── code-aprendiz.php
+		└── d
+		|	└── delete.php
+
+		└── 0
+		|	└── components
+		|	|	└── elements-l0.php
+		|	|	└── elements-l1.php
+		|	|	└── elements-l2.php
+		|	|	└── elements-l3.php
+		|	|	└── header.php
+		|	|	└── footer.php
+		|	└── css
+		|	|	└── styles_new.css
+		|	└── db
+		|	|	└── db-SENA.sql
+		|	|	└── csv
+		|	|		└── ...
+		|	└── e
+		|	|	└── error.php
+		|	└── images
+		|	|	└── eye_closed.png
+		|	|	└── eye_open.png
+		|	|	└── logo_SENA.png
+		|	└── scripts
+		|		└── functions.php
+		└── 1
+			└── crud.php
