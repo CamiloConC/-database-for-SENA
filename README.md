@@ -1,4 +1,4 @@
-# webpage-SENA
+# webpage SENA
 Ejemplo de cómo podría llegar a ser una página para administrar la base de datos del Servicio Nacional de Aprendizaje (SENA). Puedes interactuar con la base de datos dando clic en este <a href="http://camiloconc.free.nf/">link</a>.
 
 ## Generalidades
